@@ -3,9 +3,11 @@ synonymous
 waggish
 change
 muddle
+nun
 oval
 preach
 fallacious
+racecar
 tight
 trot
 death
@@ -15,6 +17,7 @@ grease
 anger
 prick
 quick
+tenet
 spell
 try
 alike
@@ -40,6 +43,7 @@ groan
 squirrel
 curve
 breakable
+rotator
 unwieldy
 addicted
 vivacious
@@ -48,3 +52,4 @@ oceanic
 relation
 abashed
 rake
+level
